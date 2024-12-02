@@ -57,7 +57,11 @@ Key programming concepts demonstrated:
 # Requirements:
 Python 3.x
 
-Required Python libraries:
+# AI used:
+claude : for develop code
+chatgpt : for convert code
+
+# Required Python libraries:
 In this script, the following Python libraries are used:
 
 1. `pandas` (imported as `pd`): For data manipulation and analysis
