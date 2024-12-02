@@ -1,10 +1,10 @@
 # TECHVORTEX_AIRLINE_ON_TIME_PERFORMANCE_ANALYSIS
 
 # team & parts:
-# JAL ANGHAN : DATA IMPLEMENT, FORMATTING & CODING
-# AKSHAY CHAUHAN : CODING & TESTER
-# KRISHA PATEL : DATA COLLECTION & SIMPLIFY
-# SUSHANT DADHEECH : DATA COLLECTION 
+ JAL ANGHAN : DATA IMPLEMENT, FORMATTING & CODING //
+ AKSHAY CHAUHAN : CODING & TESTER //
+ KRISHA PATEL : DATA COLLECTION & SIMPLIFY //
+ SUSHANT DADHEECH : DATA COLLECTION //
 
 # Overwiew & Features:
 This code project is an airline performance analysis tool that creates a comprehensive database and analytical system for tracking and visualizing flight performance data. Here's an overview of its key features:
