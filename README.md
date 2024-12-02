@@ -58,7 +58,7 @@ Key programming concepts demonstrated:
 Python 3.x
 
 # AI used:
-claude : for develop code
+claude : for develop code //
 chatgpt : for convert code
 
 # Required Python libraries:
